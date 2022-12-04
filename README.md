@@ -3,7 +3,7 @@
 I'm experienced Data Analyst  
 and Machine Learning enthuziast.
 
-✨ Here is my [PORTFOLIO](github.com/oleggrigoryev/public_projects) and [CV](github.com/oleggrigoryev/CV)
+✨ Here is my [PORTFOLIO](https://github.com/oleggrigoryev/public_projects) and [CV](https://github.com/oleggrigoryev/CV)
 
 📫 How to reach me:  
 Telegram [@olegcitizen](https://t.me/olegcitizen)  
