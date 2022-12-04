@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**oleggrigoryev/oleggrigoryev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm experienced Data Analyst  
+and Machine Learning enthuziast.
 
-Here are some ideas to get you started:
+✨ Here is my [PORTFOLIO](github.com/oleggrigoryev/public_projects) and [CV](github.com/oleggrigoryev/CV)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:  
+Telegram [@olegcitizen](https://t.me/olegcitizen)  
+E-mail [grigoryev.team@gmail.com](mailto:grigoryev.team@gmail.com)  
+
+🤔 I’m looking for help with making an app for martial arts
+
+[comment]: <> ( - 🔭 I’m currently working on ...)
+[comment]: <> ( - 🌱 I’m currently learning )
