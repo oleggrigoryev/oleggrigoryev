@@ -9,7 +9,7 @@ and Machine Learning enthuziast.
 Telegram [@olegcitizen](https://t.me/olegcitizen)  
 E-mail [grigoryev.team@gmail.com](mailto:grigoryev.team@gmail.com)  
 
-📡 I’m looking for help with making an app for martial arts
+📡  I’m looking for help with making an app for martial arts
 
 [comment]: <> ( - 🔭 I’m currently working on ...)
 [comment]: <> ( - 🌱 I’m currently learning )
